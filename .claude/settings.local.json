@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -sL https://kabir-weds-diksha.site/ -o /tmp/kabir-index.html)",
+      "Read(//tmp/**)",
+      "Bash(curl -sIL https://kabir-weds-diksha.site/assets/index-C78NrZjj.js)",
+      "Bash(curl -sIL https://kabir-weds-diksha.site/assets/index-D9AJYAf6.css)",
+      "Bash(curl -sIL https://kabir-weds-diksha.site/favicon.ico)",
+      "Bash(curl -sIL https://kabir-weds-diksha.site/robots.txt)",
+      "Bash(curl -sL https://kabir-weds-diksha.site/assets/index-D9AJYAf6.css -o /tmp/kabir.css)",
+      "Bash(curl -sL https://kabir-weds-diksha.site/assets/index-C78NrZjj.js -o /tmp/kabir.js)"
+    ]
+  }
+}

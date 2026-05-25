@@ -1,0 +1,64 @@
+{
+  "_README": [
+    "HOW TO USE THIS FILE:",
+    "1. Change any value to the right of a colon (keep the quotes around it).",
+    "2. DO NOT remove keys, commas, braces, or quotes - only edit text.",
+    "3. Save the file, then double-click update.bat in the project folder.",
+    "4. Wait about 1 minute for Vercel to redeploy your site."
+  ],
+
+  "couple": {
+    "bride": "Diksha",
+    "groom": "Kabir"
+  },
+
+  "bride": {
+    "mother": "Smt. Shikha",
+    "father": "Shri Tarun Agarwal"
+  },
+
+  "groom": {
+    "mother": "Mrs. Samita Agarwal",
+    "father": "Mr. Pawn Agarwal",
+    "parents": "Mrs. Smita & Mr. Pawan Agarwal",
+    "blessings": "Smt. Lalita Devi & Shri. Ravi Agarwal"
+  },
+
+  "date": {
+    "full": "June 05, 2026",
+    "year": "2026",
+    "month": "June",
+    "weekday": "FRI",
+    "weekday2": "WED"
+  },
+
+  "venue": {
+    "name": "Uttar Garden Lawn",
+    "address": "A-12,Amaara Farms, Mandir Rd, Main Chhatarpur Rd, Bhatti Kalan, New Delhi, Delhi 110074"
+  },
+
+  "events": {
+    "mehendiTagline": "A playful morning of mehendi and cultural festivities",
+    "sangeetTagline": "A playful night of sangeet and cultural festivities",
+    "cocktailTagline": "A playful Night with friends and cultural Activities",
+    "receptionTagline": "Because meeting two soul requires twice the fun"
+  },
+
+  "labels": {
+    "youAreInvited": "You’re Invited",
+    "tapToOpen": "Tap to open your invitation",
+    "saveTheDate": "Save the date",
+    "scratchToReveal": "Scratch to reveal",
+    "awaitingPresence": "Awaiting Your Noble Presence",
+    "cordiallyInvite": "Cordialy invite you to attend the",
+    "withBlessings": "With the blessings Of",
+    "weddingOfTheirSon": "Wedding of their son",
+    "withImmenseJoy": "With immense joy and love",
+    "theFamilies": "The Families",
+    "weddingEvents": "Wedding Events",
+    "whereWeCelebrate": "Where We Celebrate",
+    "dressCode": "Dress code",
+    "getDirections": "Get Directions",
+    "ganeshMantra": "||Shree Ganeshaya Namah||"
+  }
+}
